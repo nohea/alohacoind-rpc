@@ -87,7 +87,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       protocol: 'http'
     });
     client.protocol.should.equal(http);
@@ -167,7 +167,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: false
     });
@@ -204,7 +204,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: false
     });
@@ -243,7 +243,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
@@ -273,7 +273,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
@@ -303,7 +303,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
@@ -334,7 +334,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
@@ -368,7 +368,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
@@ -401,7 +401,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
@@ -431,7 +431,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
@@ -462,7 +462,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
@@ -493,7 +493,7 @@ describe('RpcClient', function() {
       user: 'user',
       pass: 'pass',
       host: 'localhost',
-      port: 9422,
+      port: 8332,
       rejectUnauthorized: true,
       disableAgent: true
     });
